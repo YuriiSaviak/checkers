@@ -1,0 +1,10 @@
+# ninja log v5
+10	1590	7522635142966799	CMakeFiles/cPlusPlus.dir/game_Game.cpp.obj	4e7f398a3a8833b1
+75	2045	7522635143606815	CMakeFiles/cPlusPlus.dir/Board.cpp.obj	c33a79d0cefd7518
+2045	2695	7522635169644401	libcPlusPlus.dll	e0745b2b127eb1d1
+2045	2695	7522635169644401	libcPlusPlus.dll.a	e0745b2b127eb1d1
+4	332	7523630914153962	build.ninja	4ec0ceefa99120bb
+0	962	7523631162360584	CMakeFiles/cPlusPlus.dir/game_Game.cpp.obj	403dd36d2e4a2e13
+7	1176	7523631164493914	CMakeFiles/cPlusPlus.dir/Board.cpp.obj	4c0ff39136f17a07
+1176	1376	7523631166473754	libcPlusPlus.dll	ffb415200e3ff830
+1176	1376	7523631166473754	libcPlusPlus.dll.a	ffb415200e3ff830

@@ -1,0 +1,3 @@
+C:/Users/lolik/Desktop/checkers/cPlusPlus/cmake-build-debug/CMakeFiles/cPlusPlus.dir
+C:/Users/lolik/Desktop/checkers/cPlusPlus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lolik/Desktop/checkers/cPlusPlus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
